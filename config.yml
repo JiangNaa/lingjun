@@ -2616,7 +2616,6 @@ engine:
   maxFrames: -1
   pendingCommitWorkers: 4
   minimumPeersRequired: 0
-  statsMultiaddr: ""
   dataWorkerBaseListenMultiaddr: ""
   dataWorkerBaseListenPort: 0
   dataWorkerMemoryLimit: 0
